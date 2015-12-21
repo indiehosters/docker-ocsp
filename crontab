@@ -1,0 +1,2 @@
+SHELL=/bin/bash
+30 0 * * * root /ocsp.sh >> /dev/null 2>&1
