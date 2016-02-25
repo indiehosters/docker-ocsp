@@ -1,4 +1,4 @@
 # docker-ocsp
-ocsp container for HAproxy service
+ocsp container for HAProxy service
 
-Check [haproxy](https://github.com/indiehosters/haproxy) service to see how to use it.
+Check [HAProxy](https://github.com/indiehosters/haproxy) service to see how to use it.
